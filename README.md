@@ -37,3 +37,5 @@ https://www.istat.it/en/legal-notice
 all other countries included in this dump use pop-stat.mashke for population data
 
 http://pop-stat.mashke.org/about/
+
+Total work time (including work by Lib Ted): ~500-1000 hours
