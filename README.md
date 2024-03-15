@@ -1,4 +1,4 @@
-thank you Lib Ted for compiling poland, belarus, spain, portugal, moldova (not including transnistria), albania, bosnia and herzegovina, bulgaria, croatia, kosovo, montenegro, north macedonia, romania, serbia, and ukraine
+thank you Lib Ted for compiling poland, belarus, belgium, spain, portugal, moldova (not including transnistria), albania, bosnia and herzegovina, bulgaria, croatia, kosovo, montenegro, north macedonia, romania, serbia, and ukraine
 
 coordinates (excluding italy, austria, and north macedonia) come from openstreetmap via overpass-turbo
 
