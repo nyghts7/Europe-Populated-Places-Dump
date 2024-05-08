@@ -43,3 +43,31 @@ all other countries included in this dump use pop-stat.mashke for population dat
 http://pop-stat.mashke.org/about/
 
 Total work time (including work by Lib Ted): ~1000 hours
+
+To Do:
+
+Cyprus
+
+United Kingdom
+
+Norway
+
+Sweden
+
+Finland
+
+Iceland
+
+Denmark
+
+Netherlands
+
+Ireland
+
+San Marino
+
+Switzerland
+
+Liechtenstein
+
+Germany
