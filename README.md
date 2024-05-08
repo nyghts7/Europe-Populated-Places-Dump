@@ -1,12 +1,12 @@
 thank you Lib Ted for compiling poland, belarus, belgium, spain, portugal, moldova (not including transnistria), albania, bosnia and herzegovina, bulgaria, croatia, kosovo, montenegro, north macedonia, romania, serbia, and ukraine
 
-coordinates (excluding italy, austria, and north macedonia) come from openstreetmap via overpass-turbo
+coordinates (excluding italy and north macedonia) come from openstreetmap via overpass-turbo
 
 https://www.openstreetmap.org/copyright
 
 https://github.com/tyrasd/overpass-turbo
 
-coordinates for italy, austria, and north macedonia were found using google's geocoding api
+coordinates for italy and north macedonia were found using google's geocoding api
 
 https://developers.google.com/maps/documentation/geocoding/policies
 
@@ -37,6 +37,10 @@ https://www.istat.it/en/legal-notice
 monaco uses monacostatistics
 
 https://www.monacostatistics.mc/Terms-and-conditions
+
+austria uses statistics austria
+
+https://www.statistik.at/en/about-us/responsibilities-and-principles/legal-basis/general-terms-and-conditions
 
 all other countries included in this dump use pop-stat.mashke for population data
 
