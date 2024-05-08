@@ -34,6 +34,10 @@ italy uses istat
 
 https://www.istat.it/en/legal-notice
 
+monaco uses monacostatistics
+
+https://www.monacostatistics.mc/Terms-and-conditions
+
 all other countries included in this dump use pop-stat.mashke for population data
 
 http://pop-stat.mashke.org/about/
