@@ -1,1 +1,0 @@
-{"name":"Vatican City","state":"Vatican City","country":"Vatican City","latitude":41.90381,"longitude":12.45316,"population":764}, 
