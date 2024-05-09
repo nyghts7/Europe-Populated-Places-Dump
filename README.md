@@ -50,8 +50,6 @@ Total work time (including work by Lib Ted): ~1000 hours
 
 To Do:
 
-Cyprus
-
 United Kingdom
 
 Norway
