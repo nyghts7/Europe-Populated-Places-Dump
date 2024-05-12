@@ -42,6 +42,10 @@ austria uses statistics austria
 
 https://www.statistik.at/en/about-us/responsibilities-and-principles/legal-basis/general-terms-and-conditions
 
+finland uses statistics finland
+
+https://stat.fi/org/lainsaadanto/copyright_en.html
+
 all other countries included in this dump use pop-stat.mashke for population data
 
 http://pop-stat.mashke.org/about/
@@ -55,8 +59,6 @@ United Kingdom
 Norway
 
 Sweden
-
-Finland
 
 Iceland
 
