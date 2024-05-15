@@ -20,7 +20,7 @@ spain uses ign (instituto geográfico nacional)
 
 https://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=NGMEN
 
-serbia uses citypopulation.de
+serbia and sweden uses citypopulation.de
 
 https://citypopulation.de/en/help/termsofuse/
 
@@ -57,8 +57,6 @@ To Do:
 United Kingdom
 
 Norway
-
-Sweden
 
 Iceland
 
