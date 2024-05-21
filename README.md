@@ -1,3 +1,5 @@
+please credit me (nyghts) for anything you use from this
+
 thank you Lib Ted for compiling poland, belarus, belgium, spain, portugal, moldova (not including transnistria), albania, bosnia and herzegovina, bulgaria, croatia, kosovo, montenegro, north macedonia, romania, serbia, and ukraine
 
 coordinates (excluding italy and north macedonia) come from openstreetmap via overpass-turbo
