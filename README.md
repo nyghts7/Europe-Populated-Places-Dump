@@ -1,6 +1,8 @@
 please credit me (nyghts) for anything you use from this
 
-thank you Lib Ted for compiling poland, belarus, belgium, spain, portugal, moldova (not including transnistria), albania, bosnia and herzegovina, bulgaria, croatia, kosovo, montenegro, north macedonia, romania, serbia, and ukraine
+thank you Lib Ted (sunny) for compiling poland, belarus, belgium, spain, portugal, moldova (not including transnistria), albania, bosnia and herzegovina, bulgaria, croatia, kosovo, montenegro, north macedonia, romania, serbia, and ukraine
+
+thank you orasoupas (soup) for compiling poland, italy, austria, and northern macedonia
 
 coordinates (excluding italy and north macedonia) come from openstreetmap via overpass-turbo
 
@@ -52,7 +54,7 @@ all other countries included in this dump use pop-stat.mashke for population dat
 
 http://pop-stat.mashke.org/about/
 
-Total work time (including work by Lib Ted): ~1000 hours
+Total work time (including work by Lib Ted and orasoupas): ~1000 hours
 
 To Do:
 
