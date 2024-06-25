@@ -60,8 +60,6 @@ To Do:
 
 United Kingdom
 
-Norway
-
 Iceland
 
 Denmark
