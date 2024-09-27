@@ -58,20 +58,8 @@ Total work time (including work by Lib Ted and orasoupas): ~1000 hours
 
 To Do:
 
-United Kingdom
-
-Iceland
-
-Denmark
-
-Netherlands
-
 Ireland
 
 San Marino
-
-Switzerland
-
-Liechtenstein
 
 Germany
